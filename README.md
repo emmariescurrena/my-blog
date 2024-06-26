@@ -1,2 +1,2 @@
 # my-blog
-Personal Blog
+Personal Blog made with Java Spring
